@@ -1,6 +1,6 @@
 ![User Testing can be fun header](https://github.com/simplysecure/usable-user-testing-can-be-fun/blob/main/Header%20graphics/ut-can-be-fun-header.png?raw=true "User Testing can be fun!")
 
-# User testing can be fun: An FAQ - Interactive game
+# User testing can be fun: An FAQ - Interactive guide
 
 User testing can be fun is the first resource of five created by the team at [Simply Secure](https://simplysecure.org/) for OSS tool teams about design.
 
